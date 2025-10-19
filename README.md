@@ -33,7 +33,7 @@ It provides a clear view of how different brands and mobiles perform in terms of
 ---
 
 ## 📷 Dashboard Preview
-![Flipkart Dashboard](https://github.com/samiksha29-patil/HR-Analytics-Dashboard-PowerBI/blob/main/Screenshot.png)
+![Flipkart Dashboard](https://github.com/samiksha29-patil/Flipkart-Dataset-Analysis-Visualization/blob/main/Flipkart.png)
 
 ---
 
